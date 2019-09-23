@@ -1,4 +1,3 @@
-Senin : Bootstrap, GIT
 Selasa : SIM ( Sistem Informasi Management)
-Rabu : Kosong
 Kamis : Belajar GNS 3
+Jumat : Trigger DB
