@@ -1,3 +1,5 @@
 Selasa : SIM ( Sistem Informasi Management)
 Kamis : Belajar GNS 3
 Jumat : Trigger DB
+
+ini di master
