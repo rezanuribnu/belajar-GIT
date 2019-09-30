@@ -1,3 +1,4 @@
+
 Senin : GIT (Branch, Merge)
 Senin : Desain Antarmuka (Wireframe)
 Selasa : SIM (Sistem Informasi Manajemen)
