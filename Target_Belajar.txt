@@ -1,8 +1,9 @@
 Senin : GIT (Branch, Merge)
 Senin : Desain Antarmuka (Wireframe)
 Selasa : SIM (Sistem Informasi Manajemen)
-Rabu : Kosong
+
 Kamis : GNS 3
 Jumat : Triger DB
 Sabtu : Tugas Kelompok UI
 Minggu : Tugas Kelompok Basis Data Lanjut
+ini file dibranch
